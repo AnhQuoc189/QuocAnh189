@@ -1,9 +1,9 @@
 # 💫About Me :
-# 👋 Hi, I’m Tran Phuoc Anh Quoc
-# 👀 I’m interested in coding
-# 🌱 I’m currently learning at University Of Information Technology , Vietnam National University - Ho Chi Minh City (UIT)
-# 💞️ I’m a Software Engineer
-# 📫 How to reach me ...
+### 👋 Hi, I’m Tran Phuoc Anh Quoc
+ 👀 I’m interested in coding
+ 🌱 I’m currently learning at University Of Information Technology , Vietnam National University - Ho Chi Minh City (UIT)
+ 💞️ I’m a Software Engineer
+ 📫 How to reach me ...
 
 ## 🌐 Contact with me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100024539650227) 
