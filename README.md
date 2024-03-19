@@ -1,3 +1,7 @@
+<a href="#" target="_blank">
+  <img src="svg/anhquoc.svg" width="1200" alt="anhquoc-official" />
+</a>
+
 # 💫About Me :
 ##### 👋 Hi, I’m Tran Phuoc Anh Quoc.
 ##### 👀 I’m interested in coding.
