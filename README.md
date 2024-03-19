@@ -1,6 +1,6 @@
-<a href="#" target="_blank">
+[<a href="#" target="_blank">
   <img src="svg/anhquoc.svg" width="1200" alt="anhquoc-official" />
-</a>
+</a>](https://github.com/QuocAnh189/QuocAnh189/issues/1#issue-2195475838)
 
 # 💫About Me :
 ##### 👋 Hi, I’m Tran Phuoc Anh Quoc.
