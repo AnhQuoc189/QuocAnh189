@@ -1,3 +1,9 @@
+# 💫About Me :
+##### 👋 Hi, I’m Tran Phuoc Anh Quoc.
+##### 👀 I’m interested in coding.
+##### 🌱 I’m currently learning at University Of Information Technology , Vietnam National University - Ho Chi Minh City (UIT).
+##### 💞️ I’m a Software Engineer.
+##### 📫 Key skills: Front-End (Web and Mobile) Developer , Back-End Developer
 
 ## 🌐 Contact with me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100024539650227) [![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/profile.php?id=100024539650227) [![Portfolio](https://img.shields.io/badge/Portfolio-1877F2?style=for-the-badge&logo=portfolio&logoColor=white)](https://portfolio-quocanh189s-projects.vercel.app)
