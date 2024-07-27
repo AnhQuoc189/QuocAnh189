@@ -48,7 +48,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=7952B3" alt="Laravel logo" title="Laravel" height="25" /></span>
 &nbsp;
----
+
 [![](https://visitcount.itsvg.in/api?id=QuocAnh1809&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!---
