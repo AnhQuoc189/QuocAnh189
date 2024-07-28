@@ -1,5 +1,3 @@
-![anhquoc](https://github.com/QuocAnh189/QuocAnh189/assets/146860044/a0eabb05-5a77-4a80-9e7f-563aa249dfed)
-
 # 💫About Me :
 ##### 👋 Hi, I’m Tran Phuoc Anh Quoc.
 ##### 👀 I’m interested in coding.
