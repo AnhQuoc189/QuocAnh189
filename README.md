@@ -42,8 +42,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Phalcon-282C34?logo=phalcon&logoColor=4B32C3" alt="Firebase logo" title="Phalcon" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=7952B3" alt="Laravel logo" title="Laravel" height="25" /></span>
 &nbsp;
 
