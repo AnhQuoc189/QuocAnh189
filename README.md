@@ -38,8 +38,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Php-282C34?logo=php&logoColor=38B2AC" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=7952B3" alt="Laravel logo" title="Laravel" height="25" /></span>
 &nbsp;
 
