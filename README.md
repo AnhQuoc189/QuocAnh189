@@ -12,6 +12,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Php-282C34?logo=php&logoColor=38B2AC" alt="git logo" title="git" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=61DAFB" alt="Next.js logo" title="Next.js" height="25" /></span>
@@ -26,6 +28,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postgres-282C34?logo=postgresql&logoColor=38B2AC" alt="Postgres logo" title="Postgres" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Mysql-282C34?logo=postgresql&logoColor=38B2AC" alt="Mysql logo" title="Postgres" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
@@ -35,8 +39,6 @@
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Php-282C34?logo=php&logoColor=38B2AC" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=7952B3" alt="Laravel logo" title="Laravel" height="25" /></span>
 &nbsp;
